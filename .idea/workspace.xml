@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="二分查找基础版">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/DynamicArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="动态数组">
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedListSentinel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/bing6749/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,15 +75,11 @@
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main\java" />
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.bing6749" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.DynamicArrayTest.test1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="data-structure" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestSinglyLinkedList.test4">
     <configuration name="DynamicArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <extension name="coverage">
@@ -107,7 +96,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicArrayTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSinglyLinkedList.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +105,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="top.bing6749" />
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.DynamicArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSinglyLinkedList.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.bing6749" />
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSinglyLinkedList.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.bing6749" />
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSinglyLinkedList.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.bing6749" />
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,9 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSinglyLinkedList.test4" />
+        <item itemvalue="JUnit.TestSinglyLinkedList.test3" />
+        <item itemvalue="JUnit.TestSinglyLinkedList.test2" />
+        <item itemvalue="JUnit.TestSinglyLinkedList.test1" />
         <item itemvalue="JUnit.DynamicArrayTest.test1" />
-        <item itemvalue="JUnit.DynamicArrayTest.test2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +181,7 @@
       <workItem from="1691417956228" duration="3652000" />
       <workItem from="1691455281248" duration="75000" />
       <workItem from="1691455367892" duration="4758000" />
-      <workItem from="1691550113057" duration="4458000" />
+      <workItem from="1691550113057" duration="16159000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -165,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691494416476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="动态数组">
+      <created>1691561690844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691561690844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +232,7 @@
     <MESSAGE value="fds" />
     <MESSAGE value="fdsfd" />
     <MESSAGE value="二分查找基础版" />
-    <option name="LAST_COMMIT_MESSAGE" value="二分查找基础版" />
+    <MESSAGE value="动态数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态数组" />
   </component>
 </project>
