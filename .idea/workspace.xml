@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="动态数组">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedListSentinel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" afterDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="单向链表">
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/DoublyLinkedListSentinel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/data-structure",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,6 +66,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.sourceCode.JSON",
+    "spring.configuration.checksum": "46f86faa6bbf9ac94a7e459509a20ed0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -182,6 +186,7 @@
       <workItem from="1691455281248" duration="75000" />
       <workItem from="1691455367892" duration="4758000" />
       <workItem from="1691550113057" duration="16159000" />
+      <workItem from="1691642535979" duration="3162000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -211,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691561690844</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="单向链表">
+      <created>1691642598876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691642598876</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +245,7 @@
     <MESSAGE value="fdsfd" />
     <MESSAGE value="二分查找基础版" />
     <MESSAGE value="动态数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态数组" />
+    <MESSAGE value="单向链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="单向链表" />
   </component>
 </project>
