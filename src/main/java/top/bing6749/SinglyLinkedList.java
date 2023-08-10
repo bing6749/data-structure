@@ -44,6 +44,16 @@ public class SinglyLinkedList implements Iterable<Integer> {
         }
     }
 
+    private void recursion(Node curr){
+        if (curr == null){
+            return;
+        }
+        System.out.println(curr.value);
+        recursion(curr.next);
+    }
+    public void loop3(){
+        recursion(head);
+    }
     @Override
     public Iterator<Integer> iterator() {
         //匿名内部类 -> 带名字的内部类

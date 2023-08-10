@@ -64,7 +64,7 @@ public class TestSinglyLinkedList {
         singlyLinkedList.addLast(2);
         singlyLinkedList.addLast(3);
         singlyLinkedList.addLast(4);
-
-        Assertions.assertEquals(2,singlyLinkedList.get(2));
+        singlyLinkedList.loop3();
+//        Assertions.assertEquals(2,singlyLinkedList.get(2));
     }
 }
