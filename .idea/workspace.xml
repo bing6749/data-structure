@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="双向哨兵链表">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/ReversePrintString.java" afterDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="递归-阶乘">
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/E03BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,7 @@
       <workItem from="1691455281248" duration="75000" />
       <workItem from="1691455367892" duration="4758000" />
       <workItem from="1691550113057" duration="16159000" />
-      <workItem from="1691642535979" duration="9295000" />
+      <workItem from="1691642535979" duration="10816000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -236,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691650819262</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="递归-阶乘">
+      <created>1691660096003</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691660096003</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +265,7 @@
     <MESSAGE value="单向链表" />
     <MESSAGE value="双向链表" />
     <MESSAGE value="双向哨兵链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="双向哨兵链表" />
+    <MESSAGE value="递归-阶乘" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归-阶乘" />
   </component>
 </project>
