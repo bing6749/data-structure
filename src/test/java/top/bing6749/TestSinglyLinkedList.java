@@ -8,6 +8,7 @@ package top.bing6749;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import top.bing6749.linkedsndlist.SinglyLinkedList;
 
 import java.util.List;
 import java.util.function.Consumer;

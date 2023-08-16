@@ -1,4 +1,4 @@
-package top.bing6749;
+package top.bing6749.linkedsndlist;
 /*
  * @author  MaRui
  * @date  2023/8/10 14:08

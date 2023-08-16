@@ -7,6 +7,7 @@ package top.bing6749;
 
 
 import org.junit.jupiter.api.Test;
+import top.bing6749.linkedsndlist.DynamicArray;
 
 /**
  * @author MaRui

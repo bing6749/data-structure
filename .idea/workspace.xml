@@ -4,9 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="递归-阶乘">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/E03BinarySearch.java" afterDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="wu">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E02HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E03PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/ArrayQueue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/ArrayQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DoublyLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DoublyLinkedListSentinel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DoublyLoopLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DoublyLoopLinkedListSentinel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E03BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E03BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E05InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E05InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E06Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E06Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E4BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E4BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/ReversePrintString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/ReversePrintString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/SinglyLinkedListSentinel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/top/bing6749/DynamicArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/DynamicArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +80,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/data-structure",
+    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/data-structure/src/main/java/top/bing6749/quenue",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,101 +95,93 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main\java\top\bing6749\quenue" />
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main\java\top\bing6749\stack" />
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\test\java" />
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main\java" />
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.bing6749.quenue" />
       <recent name="top.bing6749" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReversePrintString">
+  <component name="RunManager" selected="Application.E03PascalTriangle">
+    <configuration name="E02HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E02HanoiTower" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E03PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E03PascalTriangle" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E06Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E06Fibonacci" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E4BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E4BubbleSort" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReversePrintString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.ReversePrintString" />
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.ReversePrintString" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSinglyLinkedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top.bing6749" />
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSinglyLinkedList.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top.bing6749" />
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSinglyLinkedList.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top.bing6749" />
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSinglyLinkedList.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top.bing6749" />
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.TestSinglyLinkedList" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E03PascalTriangle" />
+        <item itemvalue="Application.E02HanoiTower" />
+        <item itemvalue="Application.E06Fibonacci" />
+        <item itemvalue="Application.E4BubbleSort" />
         <item itemvalue="Application.ReversePrintString" />
-        <item itemvalue="JUnit.TestSinglyLinkedList" />
-        <item itemvalue="JUnit.TestSinglyLinkedList.test4" />
-        <item itemvalue="JUnit.TestSinglyLinkedList.test3" />
-        <item itemvalue="JUnit.TestSinglyLinkedList.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +197,11 @@
       <workItem from="1691455281248" duration="75000" />
       <workItem from="1691455367892" duration="4758000" />
       <workItem from="1691550113057" duration="16159000" />
-      <workItem from="1691642535979" duration="10816000" />
+      <workItem from="1691642535979" duration="18624000" />
+      <workItem from="1691737057069" duration="4880000" />
+      <workItem from="1691930685047" duration="2139000" />
+      <workItem from="1691933002223" duration="66000" />
+      <workItem from="1691983376494" duration="11013000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -240,7 +259,35 @@
       <option name="project" value="LOCAL" />
       <updated>1691660096003</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="递归-二分">
+      <created>1691662380485</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691662380485</updated>
+    </task>
+    <task id="LOCAL-00010" summary="递归-冒泡排序">
+      <created>1691665424065</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691665424065</updated>
+    </task>
+    <task id="LOCAL-00011" summary="递归-插入排序">
+      <created>1691668645628</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691668645628</updated>
+    </task>
+    <task id="LOCAL-00012" summary="递归求斐波那契第n项">
+      <created>1691737137731</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691737137731</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,6 +313,11 @@
     <MESSAGE value="双向链表" />
     <MESSAGE value="双向哨兵链表" />
     <MESSAGE value="递归-阶乘" />
-    <option name="LAST_COMMIT_MESSAGE" value="递归-阶乘" />
+    <MESSAGE value="递归-二分" />
+    <MESSAGE value="递归-冒泡排序" />
+    <MESSAGE value="递归-插入排序" />
+    <MESSAGE value="递归求斐波那契第n项" />
+    <MESSAGE value="wu" />
+    <option name="LAST_COMMIT_MESSAGE" value="wu" />
   </component>
 </project>
