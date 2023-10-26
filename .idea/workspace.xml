@@ -4,32 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="wu">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E02HanoiTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E03PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/ArrayQueue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/ArrayQueue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/stack/Stack.java" afterDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="堆">
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/AVL/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/E01Leetcode144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/SBTTree1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/SBTTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/TreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/E05Leetcode104_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Science.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DoublyLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DoublyLinkedListSentinel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DoublyLoopLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DoublyLoopLinkedListSentinel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E03BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E03BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E05InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E05InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E06Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E06Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/E4BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/E4BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/ReversePrintString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/ReversePrintString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/SinglyLinkedListSentinel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/linkedsndlist/SinglyLinkedListSentinel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/top/bing6749/DynamicArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/DynamicArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/bing6749/TestSinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,28 +66,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-cn.com.pism.batslog.notification": "cn.com.pism.batslog.notification",
-    "Notification.DoNotAsk-cn.com.pism.batslog.notification": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/data-structure/src/main/java/top/bing6749/quenue",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "spring.configuration.checksum": "46f86faa6bbf9ac94a7e459509a20ed0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-cn.com.pism.batslog.notification&quot;: &quot;cn.com.pism.batslog.notification&quot;,
+    &quot;Notification.DoNotAsk-cn.com.pism.batslog.notification&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/data-structure/src/main/java/top/bing6749/quenue&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;46f86faa6bbf9ac94a7e459509a20ed0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main\java\top\bing6749\quenue" />
@@ -105,17 +100,19 @@
       <recent name="C:\Users\ASUS\IdeaProjects\data-structure\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.bing6749.binarytree" />
+      <recent name="top.bing6749.Heap" />
       <recent name="top.bing6749.quenue" />
       <recent name="top.bing6749" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E03PascalTriangle">
-    <configuration name="E02HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E02HanoiTower" />
+  <component name="RunManager" selected="Application.top.homework.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="PATTERN" value="top.bing6749.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E03PascalTriangle" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="PATTERN" value="top.bing6749.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E06Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E06Fibonacci" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="PATTERN" value="top.bing6749.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E4BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.E4BubbleSort" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.bing6749.Person" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="PATTERN" value="top.bing6749.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversePrintString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.linkedsndlist.ReversePrintString" />
+    <configuration name="top.homework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.Main" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.linkedsndlist.*" />
+          <option name="PATTERN" value="top.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E03PascalTriangle" />
-        <item itemvalue="Application.E02HanoiTower" />
-        <item itemvalue="Application.E06Fibonacci" />
-        <item itemvalue="Application.E4BubbleSort" />
-        <item itemvalue="Application.ReversePrintString" />
+        <item itemvalue="Application.top.homework.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +199,31 @@
       <workItem from="1691930685047" duration="2139000" />
       <workItem from="1691933002223" duration="66000" />
       <workItem from="1691983376494" duration="11013000" />
+      <workItem from="1692271755433" duration="3254000" />
+      <workItem from="1692341966457" duration="12187000" />
+      <workItem from="1692422634470" duration="5633000" />
+      <workItem from="1692431666708" duration="14015000" />
+      <workItem from="1692512709841" duration="6787000" />
+      <workItem from="1692586794784" duration="17481000" />
+      <workItem from="1692685490774" duration="16652000" />
+      <workItem from="1692774800728" duration="7945000" />
+      <workItem from="1692867349658" duration="8764000" />
+      <workItem from="1692963295273" duration="3605000" />
+      <workItem from="1694094227196" duration="620000" />
+      <workItem from="1694506734890" duration="6241000" />
+      <workItem from="1694653118742" duration="1710000" />
+      <workItem from="1694840598486" duration="1450000" />
+      <workItem from="1694957483712" duration="720000" />
+      <workItem from="1695043449396" duration="605000" />
+      <workItem from="1695113029421" duration="6949000" />
+      <workItem from="1695296185068" duration="3179000" />
+      <workItem from="1695958958191" duration="4797000" />
+      <workItem from="1696568581085" duration="17652000" />
+      <workItem from="1696675878386" duration="1785000" />
+      <workItem from="1696920397230" duration="2270000" />
+      <workItem from="1697114377256" duration="2081000" />
+      <workItem from="1697176893540" duration="6158000" />
+      <workItem from="1697723063925" duration="2867000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -287,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691737137731</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="堆">
+      <created>1692427061651</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692427061651</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +347,18 @@
     <MESSAGE value="递归-插入排序" />
     <MESSAGE value="递归求斐波那契第n项" />
     <MESSAGE value="wu" />
-    <option name="LAST_COMMIT_MESSAGE" value="wu" />
+    <MESSAGE value="堆" />
+    <option name="LAST_COMMIT_MESSAGE" value="堆" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/E01Leetcode144.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
