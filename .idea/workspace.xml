@@ -5,26 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="堆">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/AVL/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/E01Leetcode144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/SBTTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/SBTTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/binarytree/TreeTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/quenue/E05Leetcode104_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Science.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/BTree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Hash/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/CircleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/CircleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/OperatingSystemP72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/animal/human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/plant/flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/school/garden/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/com/graphic/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/com/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/computer/mainbroad/VGACard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/computer/mainbroad/showCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,7 +86,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/data-structure/src/main/java/top/bing6749/quenue&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/作业（经贸）/毕业论文各项文件（2023）/20202030319王晨冰（系统源码）/源码/diy_bing&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,7 +94,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;46f86faa6bbf9ac94a7e459509a20ed0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -106,13 +117,13 @@
       <recent name="top.bing6749" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.top.homework.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.App1" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.App2" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.Main" />
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.OperatingSystemP72.TCPClient" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.bing6749.Person" />
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.OperatingSystemP72.TCPServer" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.bing6749.*" />
+          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="top.homework.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.Main" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.com.test.test" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.*" />
+          <option name="PATTERN" value="top.homework.com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.top.homework.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +235,29 @@
       <workItem from="1697114377256" duration="2081000" />
       <workItem from="1697176893540" duration="6158000" />
       <workItem from="1697723063925" duration="2867000" />
+      <workItem from="1698295123852" duration="1837000" />
+      <workItem from="1698392649335" duration="2546000" />
+      <workItem from="1698590125052" duration="1000000" />
+      <workItem from="1701148331171" duration="2230000" />
+      <workItem from="1701179046435" duration="16000" />
+      <workItem from="1701782025698" duration="2125000" />
+      <workItem from="1705555834910" duration="53000" />
+      <workItem from="1706770008354" duration="2886000" />
+      <workItem from="1706773566955" duration="7000" />
+      <workItem from="1706773579863" duration="2447000" />
+      <workItem from="1706941811415" duration="1808000" />
+      <workItem from="1707361647788" duration="1802000" />
+      <workItem from="1708853058536" duration="207000" />
+      <workItem from="1708952692267" duration="640000" />
+      <workItem from="1708957017071" duration="1001000" />
+      <workItem from="1709034647408" duration="806000" />
+      <workItem from="1709102905156" duration="103000" />
+      <workItem from="1709776873797" duration="80000" />
+      <workItem from="1709776962856" duration="372000" />
+      <workItem from="1709777344488" duration="218000" />
+      <workItem from="1709777570784" duration="2464000" />
+      <workItem from="1710468362037" duration="4000" />
+      <workItem from="1714090385063" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -316,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692427061651</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="堆">
+      <created>1698295143564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698295143564</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +368,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -360,5 +413,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

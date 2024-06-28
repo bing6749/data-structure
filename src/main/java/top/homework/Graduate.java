@@ -13,7 +13,7 @@ public class Graduate extends Student{
     private String direction;
 
     public void show(){
-        super.show();
+        System.out.print("姓名："+ super.getName() +"    年龄："+super.getAge()+"    学位："+getDegree());
         System.out.println("    研究方向"+this.direction);
     }
 

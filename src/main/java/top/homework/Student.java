@@ -9,7 +9,7 @@ package top.homework;
 /**
  * @author MaRui
  */
-public class Student {
+public abstract class Student {
     private String name;
     private int age;
     private String degree;
@@ -22,8 +22,29 @@ public class Student {
     public Student() {
     }
 
-
-    public void show(){
-        System.out.print("姓名："+name+"    年龄："+age+"    学位："+degree);
+    public String getName() {
+        return name;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getDegree() {
+        return degree;
+    }
+
+    public void setDegree(String degree) {
+        this.degree = degree;
+    }
+
+    public abstract void show();
 }

@@ -29,9 +29,27 @@ public class Main {
 //        Science science = new Science("刘六、", "科学家、", 7000, 2000);
 //        science.show();
 
-        Dog d1 = new Dog("小木", 100, 20, "牧羊犬");
-        d1.print();
-        Penguin p1 = new Penguin("Q仔", 100, 20, "男");
-        p1.print();
+//        Dog d1 = new Dog("小木", 100, 20, "牧羊犬");
+//        d1.print();
+//        Penguin p1 = new Penguin("Q仔", 100, 20, "男");
+//        p1.print();
+
+//        Rectangle rectangle = new Rectangle("长方形",3,2);
+//        rectangle.parameter();
+//        rectangle.area();
+
+//        Circle circle = new Circle("圆","红色",4);
+//        circle.parameter();
+//        circle.area();
+
+//        CircleClass circle1 = new CircleClass(3.5);
+//        circle1.circleArea();
+//        CircleClass circle2 = new CircleClass(5.0);
+//        circle2.circleArea();
+
+        Square square = new Square();
+        System.out.println(square.area(2));
+        Circle circle = new Circle();
+        System.out.println(circle.area(3));
     }
 }

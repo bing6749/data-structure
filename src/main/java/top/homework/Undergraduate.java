@@ -12,7 +12,8 @@ package top.homework;
 public class Undergraduate extends Student{
     private String specialty;
     public void show(){
-        super.show();
+        System.out.print("姓名："+ super.getName() +"    年龄："+super.getAge()+"    学位："+getDegree());
+
         System.out.println("    专业："+this.specialty);
     }
 
