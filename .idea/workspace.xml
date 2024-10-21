@@ -5,36 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="堆">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/BTree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/BTree/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Hash/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/CircleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/CircleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/OperatingSystemP72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/OperatingSystemP72/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/animal/human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/plant/flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/biology/school/garden/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/com/graphic/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/com/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/computer/mainbroad/VGACard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/computer/mainbroad/showCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
