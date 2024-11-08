@@ -4,27 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="堆">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/bing6749/Main.java" afterDir="false" />
+    <list default="true" id="18f4766c-dedf-40a1-9c13-f34079eba405" name="Changes" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/demo/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/UnSupportedShapeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验3/shapes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/AbstractFactory57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/AbstractProductCPU57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/AbstractProductRAM57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/ConcreteFactoryPC57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/ConcreteProductMacCPU57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/ConcreteProductMacRAM57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/ConcreteProductPCCPU57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/ConcreteProductPCRAM57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/实验4/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/题目二/Character57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/题目二/CharacterBuilder57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/题目二/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/题目二/MageBuilder57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/homework/设计模式/题目二/WarriorBuilder57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/CircleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/CircleInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Graduate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Graphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Persion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Science.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/homework/Undergraduate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/leetcode/Problem46" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +65,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -60,6 +91,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2TeygaX3kXUPuX9XZcqWdt4zQpk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,7 +110,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/作业（经贸）/毕业论文各项文件（2023）/20202030319王晨冰（系统源码）/源码/diy_bing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/大四上/设计模式/实验4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,7 +118,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;46f86faa6bbf9ac94a7e459509a20ed0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -107,13 +141,13 @@
       <recent name="top.bing6749" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TCPClient">
-    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.App1" />
+  <component name="RunManager" selected="Application.top.homework.设计模式.实验4.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.设计模式.实验3.Client" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
+          <option name="PATTERN" value="top.homework.设计模式.实验3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.App2" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.demo.MapDemo" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
+          <option name="PATTERN" value="top.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.OperatingSystemP72.TCPClient" />
+    <configuration name="top.homework.设计模式.实验4.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.设计模式.实验4.Client" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
+          <option name="PATTERN" value="top.homework.设计模式.实验4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.OperatingSystemP72.TCPServer" />
+    <configuration name="top.homework.设计模式.实验4.题目二.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.设计模式.实验4.题目二.Client" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.OperatingSystemP72.*" />
+          <option name="PATTERN" value="top.homework.设计模式.实验4.题目二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.homework.com.test.test" />
+    <configuration name="top.homework.设计模式.题目二.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.homework.设计模式.题目二.Client" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.homework.com.test.*" />
+          <option name="PATTERN" value="top.homework.设计模式.题目二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TCPClient" />
-        <item itemvalue="Application.TCPServer" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.App2" />
-        <item itemvalue="Application.App1" />
+        <item itemvalue="Application.top.homework.设计模式.实验4.Client" />
+        <item itemvalue="Application.top.homework.设计模式.题目二.Client" />
+        <item itemvalue="Application.top.homework.设计模式.实验4.题目二.Client" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +282,14 @@
       <workItem from="1709777570784" duration="2464000" />
       <workItem from="1710468362037" duration="4000" />
       <workItem from="1714090385063" duration="396000" />
+      <workItem from="1729508873932" duration="114000" />
+      <workItem from="1729580425536" duration="837000" />
+      <workItem from="1729662992901" duration="2641000" />
+      <workItem from="1729733207677" duration="3259000" />
+      <workItem from="1729756466604" duration="90000" />
+      <workItem from="1730709748793" duration="2659000" />
+      <workItem from="1730877872335" duration="11435000" />
+      <workItem from="1730985000892" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="fds">
       <created>1691420115216</created>
@@ -347,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698295143564</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1729508968878</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729508968878</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +441,8 @@
     <MESSAGE value="递归求斐波那契第n项" />
     <MESSAGE value="wu" />
     <MESSAGE value="堆" />
-    <option name="LAST_COMMIT_MESSAGE" value="堆" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

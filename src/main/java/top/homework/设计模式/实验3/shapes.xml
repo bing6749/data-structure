@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapes>
+    <shape type="Circle"/>
+    <shape type="Square"/>
+    <shape type="Triangle"/>
+    <shape type="Hexagon"/> <!-- 不支持的形状 -->
+</shapes>
